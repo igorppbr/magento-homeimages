@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Igorludgero_Homeimages>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Igorludgero_Homeimages>
+    </modules>
+</config>
